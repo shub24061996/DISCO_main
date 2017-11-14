@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510567452 source:c:\users\hp\desktop\disco_main\temp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

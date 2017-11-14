@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510511676 source:c:\users\hp\desktop\disco_main\q8\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

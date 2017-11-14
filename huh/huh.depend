@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510597913 source:c:\users\hp\desktop\disco_main\huh\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510426423 source:c:\users\hp\desktop\disco_main\fdsfdsf\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1510472033 source:c:\users\hp\desktop\disco_main\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
